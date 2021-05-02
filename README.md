@@ -1,2 +1,1 @@
-# Emma-Bot
-github da querida Emma bot
+# Emma-Bot- A Friboi do discord 
